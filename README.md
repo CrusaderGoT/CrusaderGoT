@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrusaderGoT
-->> @.real_name()
-  Emeka ~ a-may-car
+- >> @.real_name()
+  >> Emeka ~ a-may-car
 - 👀 I’m interested in PYTHON!! Django, Librosa, Numpy, Scipy, PIL, Matplotlib, HTML, Bootstrap5 etc.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Django based projects, Moviepy based projects, or any of the things am interested in.
