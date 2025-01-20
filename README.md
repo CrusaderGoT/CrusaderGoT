@@ -1,3 +1,4 @@
+[outdated,will update soon]
 👋 Hi, I’m @CrusaderGoT
 
 - 👤 **Real Name**: Emeka ~ a-may-car
