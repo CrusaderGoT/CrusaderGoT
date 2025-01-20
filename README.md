@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @CrusaderGoT
 
-- 👤 **Real Name**: Emeka ~ a-may-car
+- 👤 **Real Name**: Emeka ~ a-may-kah
 
 👀 I’m passionate about **Python**, especially with **Django** for web development, and I enjoy working with various libraries and technologies including:
   - 🎶 **Librosa** for audio and music analysis,
