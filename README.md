@@ -1,31 +1,33 @@
-[outdated,will update soon]
+👋 Hi, I’m @CrusaderGoT  
 
-👋 Hi, I’m @CrusaderGoT
+- 👤 **Real Name**: Emeka ~ ay-may-kah  
 
-- 👤 **Real Name**: Emeka ~ ay-may-kah
+👀 I’m passionate about **Python**, especially with **FastAPI** and **Django** for web development. I follow best practices and enjoy working with a variety of libraries and technologies, including:  
+  - 🔢 **Numpy** and **Scipy** for scientific computing,  
+  - 📊 **Matplotlib** for data visualization,  
+  - 🖼️ **Pillow** (PIL) for image processing,  
+  - 🎶 **Librosa** for audio and music analysis,  
+  - 🎥 **Moviepy** for video editing,  
+  - 💻 **HTML**, **CSS**, and **TailwindCSS** for frontend development,  
+  - 🅱️ **Bootstrap5**, **ShadCN UI**, and **Mantine** for responsive and modern UI design.  
 
-👀 I’m passionate about **Python**, especially with **Django** for web development, and I enjoy working with various libraries and technologies including:
-  - 🎶 **Librosa** for audio and music analysis,
-  - 🎥 **Moviepy** for video editing and manipulation,
-  - 🔢 **Numpy** and **Scipy** for scientific computing,
-  - 🖼️ **PIL** (Python Imaging Library) for image processing,
-  - 📊 **Matplotlib** for data visualization,
-  - 💻 **HTML** and **CSS** for frontend development,
-  - 🅱️ **Bootstrap5** for responsive design.
+🌱 Currently, I'm focusing on:  
+  - Expanding my expertise in **JavaScript**, **Next.js**, and modern web development tools,  
+  - Building RESTful APIs with **FastAPI** and **Django REST framework**,  
+  - Improving database management skills with **PostgreSQL**, **Neon**, and **Aiven**,  
+  - Deploying applications using platforms like **Render**.  
 
-🌱 Currently, I'm expanding my skills into **JavaScript** and diving deeper into **Django REST framework** for building RESTful APIs. I've also been experimenting with **Tailwind CSS** for modern and utility-first styling, and **Geopy** for geocoding and location-based services.
+💡 Recent projects include:  
+  - An API for **The Culling Games**, leveraging FastAPI and Next.js,  
+  - Dynamic portfolio websites to showcase skills and services,  
+  - Systems utilizing **Alembic** for database migrations and **SQLAlchemy/SQLModel** for ORM.  
 
-💡 In my recent ventures, I've explored database management with **PostgreSQL** using **Psycopg2**, deploying applications on platforms like **Render**, and **API Integration**.
+🔭 Future goals:  
+  - Dive deeper into **cloud technologies** like **AWS**,  
+  - Explore **containerization** with **Docker**,  
+  - Enhance my knowledge in **AI** and **machine learning**,  
+  - Expand into **automation** and **scripting** to solve real-world problems.  
 
-🔭 Additionally, some of my personal projects not on GitHub, include an e-commerce website available on sale on Upwork; utilizing APIs from platforms like Reddit, Spotify, Twitter, and Meta for personal use.
+📫 You can reach me at enememeka44@gmail.com or connect with me on LinkedIn and Twitter.  
 
-🚀 Looking ahead, I aim to delve into cloud technologies like **AWS**, containerization with **Docker**, and dive deeper into **machine learning** (ML) and **artificial intelligence** (AI).
-
-📫 You can reach me at enememeka44@gmail.com.
-
-Let's connect and collaborate on exciting projects!
-
-<!---
-CrusaderGoT/CrusaderGoT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s collaborate and build something amazing together!
