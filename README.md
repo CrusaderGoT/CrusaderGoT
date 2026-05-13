@@ -69,11 +69,16 @@ When I'm not shipping code, I'm writing fiction or reading it.
 
 <div align="center">
 
-![Emeka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrusaderGoT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=58a6ff&text_color=8b949e)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrusaderGoT&theme=github_dark)](https://github.com/CrusaderGoT)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CrusaderGoT&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)
+<a href="https://github.com/CrusaderGoT">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CrusaderGoT&theme=github_dark" height="180"/>
+</a>
+<a href="https://github.com/CrusaderGoT">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrusaderGoT&theme=github_dark" height="180"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrusaderGoT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=8b949e&langs_count=6)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CrusaderGoT&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)](https://github.com/CrusaderGoT)
 
 </div>
 
@@ -81,7 +86,7 @@ When I'm not shipping code, I'm writing fiction or reading it.
 
 <div align="center">
 
-*Building in public from Nigeria. Always open to interesting problems.*
+*Building in public from Ibadan. Always open to interesting problems.*
 
 **[crusadergot.vercel.app](https://crusadergot.vercel.app)** · **[LinkedIn](https://linkedin.com/in/chukwuemeka-enemchukwu)**
 
