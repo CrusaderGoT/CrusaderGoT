@@ -11,7 +11,7 @@ When I'm not shipping code, I'm writing fiction or reading it.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-crusadergot.vercel.app-black?style=flat-square&labelColor=0d0d0d&logo=vercel&logoColor=white)](https://crusadergot.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chukwuemeka%20Enemchukwu-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/chukwuemeka-enemchukwu)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Freelance%20%26%20Full--time-brightgreen?style=flat-square&labelColor=0d0d0d)](mailto:your@email.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Freelance%20%26%20Full--time-brightgreen?style=flat-square&labelColor=0d0d0d)](mailto:enememeka44@gmail.com)
 
 </div>
 
