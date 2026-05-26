@@ -75,7 +75,7 @@ When I'm not shipping code, I'm writing fiction or reading it.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CrusaderGoT&theme=github_dark" height="180"/>
 </a>
 <a href="https://github.com/CrusaderGoT">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrusaderGoT&theme=github_light" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrusaderGoT&theme=github_dark" height="180"/>
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CrusaderGoT&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)](https://github.com/CrusaderGoT)
